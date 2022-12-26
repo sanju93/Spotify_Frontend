@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(29, 8, 48);
+  color: white;
+}
+/*Nav section*/
+body nav {
+  background-color: rgb(29, 8, 48);
+}
+.navigation li a {
+  color: white;
+}
+.search i {
+  height: 10%;
+  width: 10%;
+}
+.SymbolSearch {
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  background-color: rgba(29, 8, 48, 0.1);
+}
+.SymbolSearch i {
+  margin-bottom: 2px;
+  color: white;
+}
+
+.textarea {
+  background-color: rgba(29, 8, 48, 0.1);
+}
+.mic {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.button {
+  background-color: white;
+  margin-left: 50%;
+}
+/*main*/
+.coldPlay {
+  width: 40vw;
+  height: 40vh;
+  background-color: midnightblue;
+}
+/*music*/
+.NMusic {
+  color: grey;
+}
